@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m currently working on the pre-course material for the Northcoders Skills Bootcamp in Coding, with the bootcamp itself starting on 9th January 2023.
+
 <!--
 **jbhall4291/jbhall4291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
