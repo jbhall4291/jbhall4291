@@ -2,7 +2,7 @@
 
 I’m currently working on the pre-course material for the Northcoders Skills Bootcamp in Coding, with the bootcamp itself starting on 9th January 2023.
 
-[![Jonathan''s GitHub stats](https://github-readme-stats.vercel.app/api?username=jbhall4291&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jonathan''s GitHub stats](https://github-readme-stats.vercel.app/api?username=jbhall4291&count_private=trueshow_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
