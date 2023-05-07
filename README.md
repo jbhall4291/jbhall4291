@@ -1,22 +1,12 @@
 ### Hi there 👋
 
-I’m currently training to be a Software Developer with the amazing [Northcoders Coding Bootcamp](https://northcoders.com/), where I'm learning all about JS, PSQL, HTML, CSS, and React.
+I’ve recently graduated from the amazing [Northcoders Full-Stack Software Development Bootcamp](https://northcoders.com/) and am now looking for an opportunity to contribute to a company's success, so if you're in need of an enthusaistic Junior Developer then get it touch! You can find out more about me, my skills and my projects at [johnny-hall.dev](www.johnny-hall.dev).
 
-Fun fact: I'm a slow-cooker legend - just ask *anyone* about my chicken shawarma wraps! :stuffed_flatbread:
+- 🔭 I’m currently working on React & React Native projects
+- 🌱 I’m currently learning Python & Three.js
+- 📫 I can be reached via jbhall4291@gmail.com or [LinkedIn](https://www.linkedin.com/in/johnny-hall-dev/)
+- :stuffed_flatbread: Fun fact: I'm a slow-cooker legend - just ask *anyone* about my chicken shawarma wraps!
 
 [![Jonathan''s GitHub stats](https://github-readme-stats.vercel.app/api?username=jbhall4291&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**jbhall4291/jbhall4291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
