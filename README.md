@@ -4,7 +4,7 @@ I’ve recently graduated from the amazing [Northcoders Full-Stack Software Deve
 
 - 🔭 I’m currently working on React & React Native projects
 - 🌱 I’m currently learning Python & Three.js
-- 📫 I can be reached via jbhall4291@gmail.com or [LinkedIn](https://www.linkedin.com/in/johnny-hall-dev/)
+- 📫 I can be reached through [my portfolio](www.johnny-hall.dev) or via [LinkedIn](https://www.linkedin.com/in/johnny-hall-dev/)
 - :stuffed_flatbread: Fun fact: I'm a slow-cooker legend - just ask *anyone* about my chicken shawarma wraps!
 
 [![Jonathan''s GitHub stats](https://github-readme-stats.vercel.app/api?username=jbhall4291&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
