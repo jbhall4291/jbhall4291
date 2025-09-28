@@ -1,11 +1,11 @@
-# Johnny Hall · Full-Stack Developer
+# Johnny Hall · Full-Stack Software Engineer
 
 Building modern web and cloud applications with **React, Next.js, .NET, and TypeScript**.  
 I bridge the gap between clean, scalable code and real business value.
 
 - 🚀 Shipping production React/Next.js and .NET projects  
-- 🛠 Commercial experience building industrial HVAC configuration tools  
-- 🌐 Find me at [johnnyhall.dev](https://www.johnnyhall.dev) or on [LinkedIn](https://www.linkedin.com/in/johnny-hall-dev/)  
+- 🛠 Built industrial HVAC configuration tools in a **client-facing, solution-driven role**  
+- 🌐 Find me at [johnnyhall.dev](https://www.johnnyhall.dev) or on [LinkedIn](https://www.linkedin.com/in/johnny-hall-dev/)   
 
 ---
 
@@ -24,7 +24,7 @@ I bridge the gap between clean, scalable code and real business value.
 **[Completed It Mate](https://github.com/jbhall4291/completed-it-mate-fe)** · Game library tracker with full CI/CD, Playwright/Jest tests, and 90%+ coverage  
 ![CI](https://github.com/jbhall4291/completed-it-mate-be/actions/workflows/backend.yml/badge.svg?branch=main)
 [![codecov](https://codecov.io/gh/jbhall4291/completed-it-mate-be/branch/main/graph/badge.svg)](https://codecov.io/gh/jbhall4291/completed-it-mate-be)
-![Node](https://img.shields.io/badge/node-%E2%89%A522-339933)
+
 
 **[Portfolio 2025](https://github.com/jbhall4291/portfolio-2025)** · Personal site [johnnyhall.dev](https://www.johnnyhall.dev) showcasing projects & skills  
 
@@ -34,5 +34,5 @@ I bridge the gap between clean, scalable code and real business value.
 
 ---
 
-### 💡 Fun Fact
-I’m a slow-cooker legend — ask me about my chicken shawarma wraps 🌯
+### 🤝 Beyond Code
+I work with clients to translate business needs into technical solutions that deliver real commercial value.
