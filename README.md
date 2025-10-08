@@ -21,7 +21,7 @@ I bridge the gap between clean, scalable code and real business value.
 
 ### 📌 Featured Projects
 
-**[Completed It Mate](https://github.com/jbhall4291/completed-it-mate-be)** · Game library tracker with full CI/CD, Playwright/Jest tests, and 90%+ coverage  
+**[Completed It Mate](https://github.com/jbhall4291/completed-it-mate-be)** · Game library tracker with full CI/CD, Playwright/Jest tests, and high coverage  
 ![CI](https://github.com/jbhall4291/completed-it-mate-be/actions/workflows/backend.yml/badge.svg?branch=main)
 [![codecov](https://codecov.io/gh/jbhall4291/completed-it-mate-be/branch/main/graph/badge.svg)](https://codecov.io/gh/jbhall4291/completed-it-mate-be)
 
