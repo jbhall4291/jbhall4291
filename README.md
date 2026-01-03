@@ -3,7 +3,7 @@
 Building modern web and cloud applications with **React, Next.js, .NET, and TypeScript**.  
 I bridge the gap between clean, scalable code and real business value.
 
-- 🚀 Shipping production React/Next.js and .NET projects  
+- 🚀 Shipping production React/Next.js, Node.js and .NET projects  
 - 🛠 Built industrial HVAC configuration tools in a **client-facing, solution-driven role**  
 - 🌐 Find me at [johnnyhall.dev](https://www.johnnyhall.dev) or on [LinkedIn](https://www.linkedin.com/in/johnny-hall-dev/)   
 
