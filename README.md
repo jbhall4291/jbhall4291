@@ -21,16 +21,13 @@ I bridge the gap between clean, scalable code and real business value.
 
 ### 📌 Featured Projects
 
-**[Completed It Mate](https://github.com/jbhall4291/completed-it-mate-be)** · Game library tracker with full CI/CD, Playwright/Jest tests, and high coverage  
+**[Completed It Mate](https://github.com/jbhall4291/completed-it-mate-fe)** · Full-stack game collection tracker with real user interactions, dashboards, and a TDD Jest/SuperTest backend enforced via CI
 ![CI](https://github.com/jbhall4291/completed-it-mate-be/actions/workflows/backend.yml/badge.svg?branch=main)
 [![codecov](https://codecov.io/gh/jbhall4291/completed-it-mate-be/branch/main/graph/badge.svg)](https://codecov.io/gh/jbhall4291/completed-it-mate-be)
-
 
 **[Portfolio 2025](https://github.com/jbhall4291/portfolio-2025)** · Personal site [johnnyhall.dev](https://www.johnnyhall.dev) showcasing projects & skills  
 
 **[Lorem Alan](https://github.com/jbhall4291/lorem-alan-vscode-extension)** · VS Code extension that generates “Lorem Alan” placeholder text  
-
-**[TapPi](https://github.com/jbhall4291/tapPi)** · Raspberry Pi project built for my niece’s STEM work experience  
 
 ---
 
